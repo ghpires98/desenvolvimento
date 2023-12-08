@@ -6,6 +6,7 @@ dill==0.3.7
 distlib==0.3.7
 filelock==3.13.1
 Flask==3.0.0
+greenlet==3.0.1
 identify==2.5.33
 importlib-metadata==7.0.0
 isort==5.12.0
@@ -18,6 +19,7 @@ platformdirs==4.1.0
 pre-commit==3.5.0
 pylint==3.0.2
 PyYAML==6.0.1
+SQLAlchemy==2.0.23
 tomli==2.0.1
 tomlkit==0.12.3
 typing_extensions==4.8.0
