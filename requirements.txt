@@ -1,7 +1,9 @@
 astroid==3.0.1
 blinker==1.7.0
+cffi==1.16.0
 cfgv==3.4.0
 click==8.1.7
+cryptography==41.0.7
 dill==0.3.7
 distlib==0.3.7
 filelock==3.13.1
@@ -17,7 +19,9 @@ mccabe==0.7.0
 nodeenv==1.8.0
 platformdirs==4.1.0
 pre-commit==3.5.0
+pycparser==2.21
 pylint==3.0.2
+PyMySQL==1.1.0
 PyYAML==6.0.1
 SQLAlchemy==2.0.23
 tomli==2.0.1
